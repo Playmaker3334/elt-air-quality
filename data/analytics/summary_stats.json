@@ -1,0 +1,12 @@
+{
+  "total_records": 3600,
+  "total_days": 30,
+  "total_stations": 5,
+  "avg_pm25": 35.68,
+  "max_pm25": 108.48,
+  "avg_aqi": 98.36,
+  "max_aqi": 177.94,
+  "pct_good": 10.5,
+  "pct_moderate": 41.5,
+  "pct_unhealthy": 16.2
+}
